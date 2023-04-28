@@ -1,3 +1,29 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "sabyr@gmail.com",
+      "password": "$2a$10$X0nzgPE55z/wunl3QaTvtudwbcamo24y5GhUUd.6yDmo5dX3s5Imm",
+      "id": 1
+    },
+    {
+      "email": "sabyr200@gmail.com",
+      "password": "$2a$10$JKnnBCqNhsCFwYW2sCra2ePIfDfoaLg0HpuuXTGPBQy1szUZm88zO",
+      "id": 2
+    },
+    {
+      "email": "sabyr@mail.ru",
+      "password": "$2a$10$iKytcolM4TgPZ0g9eOQXQukipnfaVItLfVzJUFObzabzmJoBnPt22",
+      "id": 3
+    },
+    {
+      "email": "maksat123@mail.ru",
+      "password": "$2a$10$YuroHS3mjUamfLE5XECuiui71uNDBimkWOjKF/QnJkfbRXAYE2Rze",
+      "id": 4
+    },
+    {
+      "email": "rus@mail.com",
+      "password": "$2a$10$1BW0CVzNHqEpGM4W6toWKODHQ5l4SFxRXJh6EKYXbz1EsT26XxjLa",
+      "id": 5
+    }
+  ]
 }
